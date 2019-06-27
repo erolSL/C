@@ -1,5 +1,4 @@
 //      dijkstra_v2.c
-//  	Powered by jack_r
 //		Program veriyi dijkstra.in dosyasından alır ve dijkstra.out
 //		dosyasına çıktıyı yazar.
 //		Verilen verilere gore sorulan 2 sehir arasi en kisa yolu bulur
